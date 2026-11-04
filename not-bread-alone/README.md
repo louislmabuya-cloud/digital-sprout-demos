@@ -1,6 +1,6 @@
 # Not Bread Alone — concept preview
 
-This is an **unofficial website concept** made by Digital Sprout. It is not the bakery's official website, it has not been approved by the business, and the illustrations and visual identity are concept work.
+This is an **unofficial website concept** made by Digital Sprout. It is not the bakery's official website and has not been approved by the business. The design is a concept preview built around the bakery name and emblem visible in the supplied screenshots.
 
 ## Run locally
 
@@ -13,7 +13,9 @@ Open `index.html` directly in a browser, or open it in VS Code and use Live Serv
 - Public listing hours shown in the concept: Monday–Friday 07:00–17:00; Saturday 07:00–15:00; Sunday closed. Call ahead because hours may change.
 - Product categories: breads, pastries, pies, confectionery and light café fare. No prices or fixed menu were added.
 
-The concept does not use business photos or claim endorsement. The location and hours link to a Google Maps search so visitors can check current information.
+The hero uses the chocolate cake photo supplied for this concept. The other product photos and logo emblem are people-free crops from the screenshots supplied earlier. Those screenshots came from Google image previews, and reuse permissions for those original photos and the logo have not been confirmed. Keep this preview private until the bakery approves the assets and design; replace those crops with owner-supplied originals before public use.
+
+The location and hours link to a Google Maps search so visitors can check current information. No people are shown in the site photos. Motion is deliberately light and respects reduced-motion settings.
 
 ## Sources checked (4 November 2026)
 
